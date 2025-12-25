@@ -50,7 +50,7 @@
     "tab_twice_suf": "",
     "tab_arr_pre": "class=\"stui-pannel__head clearfix",
     "tab_arr_suf": "</div>",
-    "tab_title": "title\">&&<",
+    "tab_title": "title\">&&<[不包含:百度,云盘,网盘,夸克,阿里,下载]",
     "list_YN_twice": "0",
     "list_twice_pre": "空",
     "list_twice_suf": "空",
